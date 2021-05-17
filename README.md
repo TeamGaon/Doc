@@ -13,7 +13,7 @@
   - xx ~ xx
  
 ## 프로젝트 참여인원
-- **안명성** ( Leader )
+- **<a href="https://github.com/MSan94">안명성</a>** ( Leader )
   - 안드로이드 CheckMe App 개발
   - Raspbian 서버 환경 구축 및 PostgreSQL 구축
   - DB 설계
